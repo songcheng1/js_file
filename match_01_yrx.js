@@ -3,6 +3,8 @@
 // @Author  : cheng
 // @FileName: match_01_yrx.js
 // @Software: PyCharm
+// url = "https://match.yuanrenxue.com/match/1"
+
 var hexcase = 0;
 var b64pad = "";
 var chrsz = 16;
